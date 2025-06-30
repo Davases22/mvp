@@ -1,0 +1,9 @@
+# Archivos grandes
+Miniconda3-latest-MacOSX-arm64.sh
+
+# Modelos y resultados dentro de subcarpeta
+openvino_wav2lip/Wav2Lip/checkpoints/
+openvino_wav2lip/Wav2Lip/results/
+
+# También puedes ignorar entornos y más
+venv/
